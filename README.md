@@ -1,5 +1,5 @@
 # VAE_protein_function
-Protein function prediction using a variational autoencoder. You can find the [extended abstract](https://arxiv.org/pdf/1712.03346.pdf) which was an oral presentation at NIPS MLCB workshop 2017.
+Protein function prediction using a variational autoencoder. You can find the short [paper](https://arxiv.org/pdf/1712.03346.pdf) which was an oral presentation at [NIPS MLCB workshop 2017](https://mlcb.github.io/).
 
 This repository contains the [detailed workflow](https://github.com/samsinai/VAE_protein_function/blob/master/VAE_for_protein_function_prediction.ipynb),and is associated with this [blog post](https://samsinai.github.io/jekyll/update/2017/08/14/Using-a-Variational-Autoencoder-to-predict-protein-function.html). 
 
